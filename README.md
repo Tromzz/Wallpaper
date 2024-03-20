@@ -1,6 +1,6 @@
 Manually copying using git
 ```
-git clone --depth 1 https://github.com/Tromzz/Wallpaper-Bank.git ~/Pictures
+git clone --depth 1 https://github.com/Tromzz/Wallpaper.git ~/Pictures
 ```
 
 #### A wallpaper bank that will be offered to download when copying Hyprland-Dots
